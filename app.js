@@ -9,4 +9,5 @@ button.addEventListener('click', function(e) {
   p.style.color = 'red';
 
   document.getElementById('button-holder').appendChild(p);
+  localStorage.setItem('clicks', click);
 });
