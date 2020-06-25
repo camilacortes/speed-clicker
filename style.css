@@ -1,0 +1,11 @@
+h1,
+.counter {
+  display: flex;
+  justify-content: center;
+}
+
+#button-holder,
+#button {
+  display: flex;
+  justify-content: center;
+}
